@@ -1,4 +1,4 @@
-# Simpel Chat
+# Simple Chat
 
 Start the server with `cargo run <port>`. If `port` is not supplied, the server picks one that's available and logs it.
 
